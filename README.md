@@ -1,0 +1,2 @@
+# automator
+stashing automator scripts
